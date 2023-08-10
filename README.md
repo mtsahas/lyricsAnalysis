@@ -1,3 +1,3 @@
-#README
-###Digitial Humanities Independent Work 2023
+# Foreign Song Lyric Analysis
+### Digitial Humanities Independent Work Seminar Spring 2023
 This repo contains code and data I used for my independent work project in spring 2023. My seminar was focused on digitial humanities and I am interested in foreign music, so my project focuses on data collection and analysis of songs in multiple languages. I examined the use of English in mostly non-English songs and the topics of lyrics of foreign-language songs.
