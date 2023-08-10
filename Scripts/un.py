@@ -9,8 +9,7 @@ from bs4 import BeautifulSoup
 import json
 # from bs4 import Script, Stylesheet
 
-my_token= "ivssTfvGH7W8fyE6gQUTjs1UXxDZgzfxH4DyfDvekh1edkrHj5JVjVT-dLqK7z-V"
-agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'
+
 #base_url = "http://api.genius.com"
 
 #url= 'https://www.billboard.com/charts/latin-songs/'

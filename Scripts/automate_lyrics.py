@@ -4,10 +4,6 @@ import time
 import spotipy
 import lyricsgenius as lg
 
-# export SPOTIFY_CLIENT_ID='a3fa13ed232c45e3916b63e9d417d2a6'
-# export SPOTIFY_CLIENT_SECRET='d1d3846e1b3b4c56a1cdd93798c117ac'
-# export SPOTIFY_REDIRECT_URI='https://www.google.com/'
-# export GENIUS_ACCESS_TOKEN='8wL6sS3AIWjG1djpAsv68Ghe_my69mOdkCDmLb2f3u2WAt65pD3y4_ssat1WDv8_'
 
 spotify_client_id = os.environ['SPOTIFY_CLIENT_ID']
 spotify_secret = os.environ['SPOTIFY_CLIENT_SECRET']
