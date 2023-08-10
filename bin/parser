@@ -1,0 +1,7 @@
+#!/Users/marytsahas/Desktop/iw/lyrics/bin/python3.11
+import os
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from htmlparser import standalone
+
+standalone.main()
